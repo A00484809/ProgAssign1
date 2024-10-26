@@ -18,20 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProgAssign1",
+              "Title": "ProgAssign1.csproj",
               "DocumentMoniker": "C:\\Users\\Library\\source\\repos\\ProgAssign1\\ProgAssign1\\ProgAssign1.csproj",
               "RelativeDocumentMoniker": "ProgAssign1\\ProgAssign1.csproj",
               "ToolTip": "C:\\Users\\Library\\source\\repos\\ProgAssign1\\ProgAssign1\\ProgAssign1.csproj",
               "RelativeToolTip": "ProgAssign1\\ProgAssign1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-26T02:47:10.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T02:47:10.395Z"
             },
             {
               "$type": "Document",
