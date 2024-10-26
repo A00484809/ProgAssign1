@@ -1,0 +1,14 @@
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\bin\Debug\net8.0\ProgAssign1.exe
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\bin\Debug\net8.0\ProgAssign1.deps.json
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\bin\Debug\net8.0\ProgAssign1.runtimeconfig.json
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\bin\Debug\net8.0\ProgAssign1.dll
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\bin\Debug\net8.0\ProgAssign1.pdb
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ProgAssign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ProgAssign1.AssemblyInfoInputs.cache
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ProgAssign1.AssemblyInfo.cs
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ProgAssign1.csproj.CoreCompileInputs.cache
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ProgAssign1.dll
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\refint\ProgAssign1.dll
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ProgAssign1.pdb
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ProgAssign1.genruntimeconfig.cache
+C:\Users\Library\source\repos\ProgAssign1\ProgAssign1\obj\Debug\net8.0\ref\ProgAssign1.dll
